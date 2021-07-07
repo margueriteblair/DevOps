@@ -37,6 +37,9 @@ Lesson 2 - What is Test Driven Development (TDD)?
     - System tests - does the process work end to end
     - Acceptance test - do end users like the product
 Lesson 3 - What is Continuous Integration (CI)? w/ CI setup TUTORIAL
+    - CI stands for Continuous Integration
+    - Changes are automatcially pushes to a code base
+    - CI is the first step in automating devOps
 Lesson 4 - What is code coverage?
 Lesson 5 - Linting best practices
 Lesson 6 - Ephemeral environments  w/ setup TUTORIAL
