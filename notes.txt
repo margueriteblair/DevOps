@@ -24,7 +24,18 @@ Lesson 1  What is DevOps?
         - Starting a new version of services without causing downtime
         - Rolling back to a prior version of a service in case something does go wrong
     - Your goal as a DevOps engineer should be to have the right tools in place that faciliate deployment without having to have too much custom code
+    - Application Performance Management:
+        - Metrics, Logging, Monitoring, Alerting
+        - Helps us to decide if we need to automatically scale
+    - Sentry, Bitrise, CircleCI
+    - Terraform to automate the deployment process
+    - DevOps engineering is vital as a product matures
 Lesson 2 - What is Test Driven Development (TDD)?
+    - TDD - Test Driven Development is a coding methodology where tests are written before code is written
+    - QA, Unit Tests - making sure each piece works on its own
+    - Integration tests - ensure a few components work together
+    - System tests - does the process work end to end
+    - Acceptance test - do end users like the product
 Lesson 3 - What is Continuous Integration (CI)? w/ CI setup TUTORIAL
 Lesson 4 - What is code coverage?
 Lesson 5 - Linting best practices
