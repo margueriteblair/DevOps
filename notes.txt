@@ -2,6 +2,10 @@ Notes on FCC DevOps course
 
 Unit 1 - Code Review Automation
 Lesson 1  What is DevOps?
+    - DevOps is a methodology that helps engineering teams build products by continuously getting user feedback.
+    - Easy to integrate, continuously integrate new versions of software
+    - Planning -> Coding -> Build -> Test (Both manual and automatic) -> Release -> Deploy -> Operate (Configure, scale) -> Monitor
+        - Then you rinse and repeat to improve your architecture
 Lesson 2 - What is Test Driven Development (TDD)?
 Lesson 3 - What is Continuous Integration (CI)? w/ CI setup TUTORIAL
 Lesson 4 - What is code coverage?
