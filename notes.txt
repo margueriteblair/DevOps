@@ -19,6 +19,11 @@ Lesson 1  What is DevOps?
         - What can be automated for a devOps engineer?
         - Continuous integration (CI) is per change ephemeral environments, notifications to reviewers.
             - Devs can propose changes and get reviewed and merged within 24 hours
+    - Deployment automation:
+        - Deploy a feature to a certain set of users as a final test before rolling it out publicly
+        - Starting a new version of services without causing downtime
+        - Rolling back to a prior version of a service in case something does go wrong
+    - Your goal as a DevOps engineer should be to have the right tools in place that faciliate deployment without having to have too much custom code
 Lesson 2 - What is Test Driven Development (TDD)?
 Lesson 3 - What is Continuous Integration (CI)? w/ CI setup TUTORIAL
 Lesson 4 - What is code coverage?
