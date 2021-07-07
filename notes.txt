@@ -6,6 +6,13 @@ Lesson 1  What is DevOps?
     - Easy to integrate, continuously integrate new versions of software
     - Planning -> Coding -> Build -> Test (Both manual and automatic) -> Release -> Deploy -> Operate (Configure, scale) -> Monitor
         - Then you rinse and repeat to improve your architecture
+    - DevOps is being able to build, test, release, deploy, monitor
+    - DevOps engineering has a few pillars:
+        - Pull request automation, deployment automation, application performance management (APM)
+        - Pull request automation helps us understand the changes that we're making to a code base
+        - APM is automatically detecting stuff like downtime, restarting processes etc.
+    - Pull request automation:
+        - Developers share code changes using git tools like github, bitbucket, etc
 Lesson 2 - What is Test Driven Development (TDD)?
 Lesson 3 - What is Continuous Integration (CI)? w/ CI setup TUTORIAL
 Lesson 4 - What is code coverage?
