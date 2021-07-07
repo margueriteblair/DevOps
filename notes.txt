@@ -13,6 +13,12 @@ Lesson 1  What is DevOps?
         - APM is automatically detecting stuff like downtime, restarting processes etc.
     - Pull request automation:
         - Developers share code changes using git tools like github, bitbucket, etc
+        - Code changes are known as a "pull request", if they're approved, they go into the main codebase
+        - The goal in pull request automation is to be able to tell very quickly if a given change is good or not. Set up typo gate, stuff like this
+        - Git familiarity, code review
+        - What can be automated for a devOps engineer?
+        - Continuous integration (CI) is per change ephemeral environments, notifications to reviewers.
+            - Devs can propose changes and get reviewed and merged within 24 hours
 Lesson 2 - What is Test Driven Development (TDD)?
 Lesson 3 - What is Continuous Integration (CI)? w/ CI setup TUTORIAL
 Lesson 4 - What is code coverage?
