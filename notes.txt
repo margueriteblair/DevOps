@@ -40,6 +40,11 @@ Lesson 3 - What is Continuous Integration (CI)? w/ CI setup TUTORIAL
     - CI stands for Continuous Integration
     - Changes are automatcially pushes to a code base
     - CI is the first step in automating devOps
+    - CI helps reduce customer churn
+    - Branch system that most devs use:
+        - Devs work on a feature branch, they'll take the prod, and make a copy for the feature branch, then they'll push back to the repository
+        - The pull request is then going to yea or nay the project
+    -LayerCI Example:
 Lesson 4 - What is code coverage?
 Lesson 5 - Linting best practices
 Lesson 6 - Ephemeral environments  w/ setup TUTORIAL
