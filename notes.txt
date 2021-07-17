@@ -45,6 +45,9 @@ Lesson 3 - What is Continuous Integration (CI)? w/ CI setup TUTORIAL
         - Devs work on a feature branch, they'll take the prod, and make a copy for the feature branch, then they'll push back to the repository
         - The pull request is then going to yea or nay the project
     -LayerCI Example
+    - Docker and Docker compose are separate entities
+    - LayerCI, copy configuration
+    - LayerCI, then when the code is pushed to the repo, the tests are automatically run. Nearly instant approval or not!
 Lesson 4 - What is code coverage?
 Lesson 5 - Linting best practices
 Lesson 6 - Ephemeral environments  w/ setup TUTORIAL
