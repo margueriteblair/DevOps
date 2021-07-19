@@ -48,6 +48,8 @@ Lesson 3 - What is Continuous Integration (CI)? w/ CI setup TUTORIAL
     - Docker and Docker compose are separate entities
     - LayerCI, copy configuration
     - LayerCI, then when the code is pushed to the repo, the tests are automatically run. Nearly instant approval or not!
+    - Can automate with Github to see that all tests pass before branches are merged.
+    - Helps to build confidence that code is good
 Lesson 4 - What is code coverage?
 Lesson 5 - Linting best practices
 Lesson 6 - Ephemeral environments  w/ setup TUTORIAL
