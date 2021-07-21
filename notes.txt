@@ -55,6 +55,7 @@ Lesson 4 - What is code coverage?
     - Enough tests to test basic functionality.
     - Code coverage graph: bright green means its all tested, all red means none of it is tested
     - Look at the unit tests first. Formalize!
+    -Notes
 Lesson 5 - Linting best practices
 Lesson 6 - Ephemeral environments  w/ setup TUTORIAL
 
